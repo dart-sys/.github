@@ -7,7 +7,13 @@
 
 Rust bindings to the dart native extensions API
 
+## Overview
+
+### TODO: Add project vision, mission, and goals
+
 ## Built With
+
+### TODO: add technologies used
 
 ## Contributing
 
@@ -16,8 +22,6 @@ Please read [CONTRIBUTING.md](https://github.com/dart-sys/dart-sys/blob/main/CON
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dart-sys/dart-sys/tags). 
-
-## Future work 🚀
 
 ## Contributors ✒
 
