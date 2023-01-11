@@ -34,6 +34,6 @@ See also the list of [contributors](https://github.com/dart-sys/dart-sys/contrib
 
 ## License 📄
 
-This project is licensed under the MIT and GNU GPL v3.0 Licenses - see the [LICENSES.md](https://github.com/dart-sys/dart-sys/blob/main/LICENSES.md) file for details
+This project is licensed under the `MIT` and `GNU GPL v3.0` Licenses - see the [LICENSE.md](https://github.com/dart-sys/dart-sys/blob/main/LICENSE.md) file for details
 
 Made with ❤️ from [AAAIMX](https://github.com/aaaimx)'s GitHub organization template 😊
